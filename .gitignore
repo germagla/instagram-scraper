@@ -1,1 +1,6 @@
 .env
+.DS_store
+venv/
+session-*
+*.old
+results/
